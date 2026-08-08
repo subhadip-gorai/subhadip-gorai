@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Subhadip Gorai 👋
 
-<!--
-**subhadip-gorai/subhadip-gorai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
-Here are some ideas to get you started:
+Coming from an Electrical Engineering background, I'm building my career in Data Analytics through hands-on learning and practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Featured Projects
+
+### 📊 National Air Quality Data Analysis
+**Tool:** Microsoft Excel  
+Data cleaning, statistical analysis, PivotTables, KPIs, visualizations and an interactive dashboard.
+
+[View Project](https://github.com/subhadip-gorai/National-Air-Quality-Data-Analysis-Excel)
+
+## 📚 Practice & Learning
+
+- Excel Data Analytics Practice
+- SQL Data Analytics Practice *(coming soon)*
+- Python Data Analytics Practice *(coming soon)*
+- Power BI Practice *(coming soon)*
+
+## 🛠️ Skills
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Data Cleaning
+- Data Visualization
+- Statistical Analysis
+
+## 🎯 Career Goal
+
+To grow as a Data Analyst by solving real-world problems with data and continuously improving my technical and analytical skills.
