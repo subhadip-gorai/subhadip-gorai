@@ -15,7 +15,7 @@ Data cleaning, statistical analysis, PivotTables, KPIs, visualizations and an in
 ## 📚 Practice & Learning
 
 - Excel Data Analytics Practice
-- SQL Data Analytics Practice *(coming soon)*
+- SQL Data Analytics Practice
 - Python Data Analytics Practice *(coming soon)*
 - Power BI Practice *(coming soon)*
 
