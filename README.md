@@ -12,7 +12,7 @@ Data cleaning, statistical analysis, PivotTables, KPIs, visualizations and an in
 
 [View Project](https://github.com/subhadip-gorai/National-Air-Quality-Data-Analysis-Excel)
 
-## 📚 Practice & Learning
+## 📚 Practice and Learning
 
 - Excel Data Analytics Practice
 - SQL Data Analytics Practice
